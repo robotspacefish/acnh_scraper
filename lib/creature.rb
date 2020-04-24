@@ -47,14 +47,57 @@ class Creature
     self.all.find { |c| c.name == name}
   end
 
+  def self.all_to_obj
+    # TODO refactor - did this quick and sloppy
 
-  # debug
-    # def self.print_all
-    #   puts self.all.size
-    #   self.all.each do |c|
-    #     puts "#{c.name} - #{c.location} - #{c.available_times.map {|t| t.time }}"
+    self.all.map do |c|
+      creature_obj = {
+        name: c.name,
+        type: c.type,
+        url: c.url,
+        price: c.price,
+        location: c.location,
+        shadow_size: c.shadow_size,
+        hemispheres: {
+          north: {},
+          south: {}
+        },
+        available_times: []
+      }
+
+
+        north_hash = {}
+        south_hash = {}
+        c.hemispheres.first.instance_variables.each do |var|
+          north_hash[var.to_s.delete("@")] = c.hemispheres.first.instance_variable_get(var)
+        end
+        c.hemispheres.last.instance_variables.each do |var|
+          south_hash[var.to_s.delete("@")] = c.hemispheres.last.instance_variable_get(var)
+        end
+
+        creature_obj[:hemispheres][:north] = north_hash
+        creature_obj[:hemispheres][:south] =  south_hash
+      c.available_times.each do |at|
+        creature_obj[:available_times] << {
+          time: at.time,
+          start_time: at.start_time,
+          end_time: at.end_time
+        }
+      end
+
+      pp creature_obj
+    end
+  end
+
+  def self.all_to_json
+    creature_obj = self.all_to_obj
+    File.write("./creatures.json",JSON.pretty_generate(creature_obj))
+    # .map do |c|
+    #   File.open("./creatures.json", "w") do |f|
+    #     f.write(JSON.pretty_generate(c))
     #   end
     # end
 
-end
+  end
 
+end

@@ -4,3 +4,4 @@ require_relative '../config/environment'
 CreatureScraper.scrape
 
 # Creature.print_all
+Creature.all_to_json
