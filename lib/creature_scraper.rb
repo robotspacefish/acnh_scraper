@@ -62,7 +62,7 @@ class CreatureScraper
 
     def scrape_fish_row(row)
       {
-        c_type: :fish,
+        type: :fish,
         :name => row[0].text.lstrip.gsub("\n", "").downcase,
         :url => row[0].css("a").attribute("href").value,
         :price => row[2].text.lstrip.gsub("\n", ""),
@@ -74,7 +74,7 @@ class CreatureScraper
 
     def scrape_bug_row(row)
       {
-        c_type: :bug,
+        type: :bug,
         :name => row[0].text.lstrip.gsub("\n", "").downcase,
         :url => row[0].css("a").attribute("href").value,
         :price => row[2].text.lstrip.gsub("\n", ""),
