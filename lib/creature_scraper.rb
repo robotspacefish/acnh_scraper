@@ -103,16 +103,5 @@ class CreatureScraper
         november: row[start_index+10].text.lstrip.gsub("\n", "") == "-" ? false : true,
         december: row[start_index+11].text.lstrip.gsub("\n", "") == "-" ? false : true
       }
-
-    end
-
-    def make_int(value)
-      value.delete(",").to_i
-    end
-
-    def self.destroy
-      Creature.destroy_all
-      Hemisphere.destroy_all
-      Available.destroy_all
     end
 end
