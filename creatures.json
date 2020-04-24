@@ -1,0 +1,7217 @@
+[
+  {
+    "name": "bitterling",
+    "type": "fish",
+    "url": "/wiki/Bitterling",
+    "price": "900",
+    "location": "River",
+    "shadow_size": "1",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "pale chub",
+    "type": "fish",
+    "url": "/wiki/Pale_chub",
+    "price": "200",
+    "location": "River",
+    "shadow_size": "1",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "9 AM - 4 PM",
+        "start_time": "9",
+        "end_time": 16
+      }
+    ]
+  },
+  {
+    "name": "crucian carp",
+    "type": "fish",
+    "url": "/wiki/Crucian_carp",
+    "price": "160",
+    "location": "River",
+    "shadow_size": "2",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "dace",
+    "type": "fish",
+    "url": "/wiki/Dace",
+    "price": "240",
+    "location": "River",
+    "shadow_size": "3",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 PM - 9 AM",
+        "start_time": 16,
+        "end_time": "9"
+      }
+    ]
+  },
+  {
+    "name": "carp",
+    "type": "fish",
+    "url": "/wiki/Carp",
+    "price": "300",
+    "location": "Pond",
+    "shadow_size": "4",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "koi",
+    "type": "fish",
+    "url": "/wiki/Koi",
+    "price": "4000",
+    "location": "Pond",
+    "shadow_size": "4",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 PM - 9 AM",
+        "start_time": 16,
+        "end_time": "9"
+      }
+    ]
+  },
+  {
+    "name": "goldfish",
+    "type": "fish",
+    "url": "/wiki/Goldfish",
+    "price": "1300",
+    "location": "Pond",
+    "shadow_size": "1",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "pop-eyed goldfish",
+    "type": "fish",
+    "url": "/wiki/Pop-eyed_goldfish",
+    "price": "1300",
+    "location": "Pond",
+    "shadow_size": "1",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "9 AM - 4 PM",
+        "start_time": "9",
+        "end_time": 16
+      }
+    ]
+  },
+  {
+    "name": "ranchu goldfish",
+    "type": "fish",
+    "url": "/wiki/Ranchu_goldfish",
+    "price": "4500",
+    "location": "Pond",
+    "shadow_size": "2",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "9 AM - 4 PM",
+        "start_time": "9",
+        "end_time": 16
+      }
+    ]
+  },
+  {
+    "name": "killifish",
+    "type": "fish",
+    "url": "/wiki/Killifish",
+    "price": "300",
+    "location": "Pond",
+    "shadow_size": "1",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "crawfish",
+    "type": "fish",
+    "url": "/wiki/Crawfish",
+    "price": "200",
+    "location": "Pond",
+    "shadow_size": "2",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "soft-shelled turtle",
+    "type": "fish",
+    "url": "/wiki/Soft-shelled_turtle",
+    "price": "3750",
+    "location": "River",
+    "shadow_size": "4",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": false,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 PM - 9 AM",
+        "start_time": 16,
+        "end_time": "9"
+      }
+    ]
+  },
+  {
+    "name": "snapping turtle",
+    "type": "fish",
+    "url": "/wiki/Snapping_Turtle",
+    "price": "5000",
+    "location": "River",
+    "shadow_size": "4",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "9 PM - 4 AM",
+        "start_time": 21,
+        "end_time": "4"
+      }
+    ]
+  },
+  {
+    "name": "tadpole",
+    "type": "fish",
+    "url": "/wiki/Tadpole",
+    "price": "100",
+    "location": "Pond",
+    "shadow_size": "1",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "frog",
+    "type": "fish",
+    "url": "/wiki/Frog_(fish)",
+    "price": "120",
+    "location": "Pond",
+    "shadow_size": "2",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "freshwater goby",
+    "type": "fish",
+    "url": "/wiki/Freshwater_goby",
+    "price": "400",
+    "location": "River",
+    "shadow_size": "2",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 PM - 9 AM",
+        "start_time": 16,
+        "end_time": "9"
+      }
+    ]
+  },
+  {
+    "name": "loach",
+    "type": "fish",
+    "url": "/wiki/Loach",
+    "price": "400",
+    "location": "River",
+    "shadow_size": "2",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "catfish",
+    "type": "fish",
+    "url": "/wiki/Catfish",
+    "price": "800",
+    "location": "Pond",
+    "shadow_size": "4",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 PM - 9 AM",
+        "start_time": 16,
+        "end_time": "9"
+      }
+    ]
+  },
+  {
+    "name": "giant snakehead",
+    "type": "fish",
+    "url": "/wiki/Giant_snakehead",
+    "price": "5500",
+    "location": "Pond",
+    "shadow_size": "4",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "9 AM - 4 PM",
+        "start_time": "9",
+        "end_time": 16
+      }
+    ]
+  },
+  {
+    "name": "bluegill",
+    "type": "fish",
+    "url": "/wiki/Bluegill",
+    "price": "180",
+    "location": "River",
+    "shadow_size": "2",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "9 AM - 4 PM",
+        "start_time": "9",
+        "end_time": 16
+      }
+    ]
+  },
+  {
+    "name": "yellow perch",
+    "type": "fish",
+    "url": "/wiki/Yellow_perch",
+    "price": "300",
+    "location": "River",
+    "shadow_size": "3",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "black bass",
+    "type": "fish",
+    "url": "/wiki/Black_bass",
+    "price": "400",
+    "location": "River",
+    "shadow_size": "4",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "tilapia",
+    "type": "fish",
+    "url": "/wiki/Tilapia",
+    "price": "800",
+    "location": "River",
+    "shadow_size": "3",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "pike",
+    "type": "fish",
+    "url": "/wiki/Pike",
+    "price": "1800",
+    "location": "River",
+    "shadow_size": "5",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "pond smelt",
+    "type": "fish",
+    "url": "/wiki/Pond_smelt",
+    "price": "500",
+    "location": "River",
+    "shadow_size": "2",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "sweetfish",
+    "type": "fish",
+    "url": "/wiki/Sweetfish",
+    "price": "900",
+    "location": "River",
+    "shadow_size": "3",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "cherry salmon",
+    "type": "fish",
+    "url": "/wiki/Cherry_salmon",
+    "price": "1000",
+    "location": "River (Clifftop)",
+    "shadow_size": "3",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 PM - 9 AM",
+        "start_time": 16,
+        "end_time": "9"
+      }
+    ]
+  },
+  {
+    "name": "char",
+    "type": "fish",
+    "url": "/wiki/Char",
+    "price": "3800",
+    "location": "River (Clifftop)  Pond",
+    "shadow_size": "3",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 PM - 9 AM",
+        "start_time": 16,
+        "end_time": "9"
+      }
+    ]
+  },
+  {
+    "name": "golden trout",
+    "type": "fish",
+    "url": "/wiki/Golden_trout",
+    "price": "15000",
+    "location": "River (Clifftop)",
+    "shadow_size": "3",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 PM - 9 AM",
+        "start_time": 16,
+        "end_time": "9"
+      }
+    ]
+  },
+  {
+    "name": "stringfish",
+    "type": "fish",
+    "url": "/wiki/Stringfish",
+    "price": "15000",
+    "location": "River (Clifftop)",
+    "shadow_size": "5",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 PM - 9 AM",
+        "start_time": 16,
+        "end_time": "9"
+      }
+    ]
+  },
+  {
+    "name": "salmon",
+    "type": "fish",
+    "url": "/wiki/Salmon",
+    "price": "700",
+    "location": "River (Mouth)",
+    "shadow_size": "4",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "king salmon",
+    "type": "fish",
+    "url": "/wiki/King_salmon",
+    "price": "1800",
+    "location": "River (Mouth)",
+    "shadow_size": "6",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "mitten crab",
+    "type": "fish",
+    "url": "/wiki/Mitten_crab",
+    "price": "2000",
+    "location": "River",
+    "shadow_size": "2",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 PM - 9 AM",
+        "start_time": 16,
+        "end_time": "9"
+      }
+    ]
+  },
+  {
+    "name": "guppy",
+    "type": "fish",
+    "url": "/wiki/Guppy",
+    "price": "1300",
+    "location": "River",
+    "shadow_size": "1",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "9 AM - 4 PM",
+        "start_time": "9",
+        "end_time": 16
+      }
+    ]
+  },
+  {
+    "name": "nibble fish",
+    "type": "fish",
+    "url": "/wiki/Nibble_fish",
+    "price": "1500",
+    "location": "River",
+    "shadow_size": "1",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "9 AM - 4 PM",
+        "start_time": "9",
+        "end_time": 16
+      }
+    ]
+  },
+  {
+    "name": "angelfish",
+    "type": "fish",
+    "url": "/wiki/Angelfish",
+    "price": "3000",
+    "location": "River",
+    "shadow_size": "2",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 PM - 9 AM",
+        "start_time": 16,
+        "end_time": "9"
+      }
+    ]
+  },
+  {
+    "name": "betta",
+    "type": "fish",
+    "url": "/wiki/Betta",
+    "price": "2500",
+    "location": "River",
+    "shadow_size": "2",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "9 AM - 4 PM",
+        "start_time": "9",
+        "end_time": 16
+      }
+    ]
+  },
+  {
+    "name": "neon tetra",
+    "type": "fish",
+    "url": "/wiki/Neon_tetra",
+    "price": "500",
+    "location": "River",
+    "shadow_size": "1",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "9 AM - 4 PM",
+        "start_time": "9",
+        "end_time": 16
+      }
+    ]
+  },
+  {
+    "name": "rainbowfish",
+    "type": "fish",
+    "url": "/wiki/Rainbowfish",
+    "price": "800",
+    "location": "River",
+    "shadow_size": "1",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "9 AM - 4 PM",
+        "start_time": "9",
+        "end_time": 16
+      }
+    ]
+  },
+  {
+    "name": "piranha",
+    "type": "fish",
+    "url": "/wiki/Piranha",
+    "price": "2500",
+    "location": "River",
+    "shadow_size": "2",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "9 AM - 4 PM",
+        "start_time": "9",
+        "end_time": 16
+      },
+      {
+        "time": "9 PM - 4 AM",
+        "start_time": 21,
+        "end_time": "4"
+      }
+    ]
+  },
+  {
+    "name": "arowana",
+    "type": "fish",
+    "url": "/wiki/Arowana",
+    "price": "10000",
+    "location": "River",
+    "shadow_size": "4",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 PM - 9 AM",
+        "start_time": 16,
+        "end_time": "9"
+      }
+    ]
+  },
+  {
+    "name": "dorado",
+    "type": "fish",
+    "url": "/wiki/Dorado",
+    "price": "15000",
+    "location": "River",
+    "shadow_size": "5",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 AM - 9 PM",
+        "start_time": "4",
+        "end_time": 21
+      }
+    ]
+  },
+  {
+    "name": "gar",
+    "type": "fish",
+    "url": "/wiki/Gar",
+    "price": "6000",
+    "location": "Pond",
+    "shadow_size": "5",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 PM - 9 AM",
+        "start_time": 16,
+        "end_time": "9"
+      }
+    ]
+  },
+  {
+    "name": "arapaima",
+    "type": "fish",
+    "url": "/wiki/Arapaima",
+    "price": "10000",
+    "location": "River",
+    "shadow_size": "6",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 PM - 9 AM",
+        "start_time": 16,
+        "end_time": "9"
+      }
+    ]
+  },
+  {
+    "name": "saddled bichir",
+    "type": "fish",
+    "url": "/wiki/Saddled_bichir",
+    "price": "4000",
+    "location": "River",
+    "shadow_size": "4",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "9 PM - 4 AM",
+        "start_time": 21,
+        "end_time": "4"
+      }
+    ]
+  },
+  {
+    "name": "sturgeon",
+    "type": "fish",
+    "url": "/wiki/Sturgeon",
+    "price": "10000",
+    "location": "River (Mouth)",
+    "shadow_size": "6",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "sea butterfly",
+    "type": "fish",
+    "url": "/wiki/Sea_butterfly",
+    "price": "1000",
+    "location": "Sea",
+    "shadow_size": "1",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "sea horse",
+    "type": "fish",
+    "url": "/wiki/Sea_horse",
+    "price": "1100",
+    "location": "Sea",
+    "shadow_size": "1",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "clown fish",
+    "type": "fish",
+    "url": "/wiki/Clownfish",
+    "price": "650",
+    "location": "Sea",
+    "shadow_size": "1",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "surgeonfish",
+    "type": "fish",
+    "url": "/wiki/Surgeonfish",
+    "price": "1000",
+    "location": "Sea",
+    "shadow_size": "2",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "butterfly fish",
+    "type": "fish",
+    "url": "/wiki/Butterfly_fish",
+    "price": "1000",
+    "location": "Sea",
+    "shadow_size": "2",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "napoleonfish",
+    "type": "fish",
+    "url": "/wiki/Napoleonfish",
+    "price": "10000",
+    "location": "Sea",
+    "shadow_size": "6",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 AM - 9 PM",
+        "start_time": "4",
+        "end_time": 21
+      }
+    ]
+  },
+  {
+    "name": "zebra turkeyfish",
+    "type": "fish",
+    "url": "/wiki/Zebra_turkeyfish",
+    "price": "500",
+    "location": "Sea",
+    "shadow_size": "3",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "blowfish",
+    "type": "fish",
+    "url": "/wiki/Blowfish",
+    "price": "5000",
+    "location": "Sea",
+    "shadow_size": "3",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "9 PM - 4 AM",
+        "start_time": 21,
+        "end_time": "4"
+      }
+    ]
+  },
+  {
+    "name": "puffer fish",
+    "type": "fish",
+    "url": "/wiki/Puffer_fish",
+    "price": "250",
+    "location": "Sea",
+    "shadow_size": "3",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "anchovy",
+    "type": "fish",
+    "url": "/wiki/Anchovy_(fish)",
+    "price": "200",
+    "location": "Sea",
+    "shadow_size": "2",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 AM - 9 PM",
+        "start_time": "4",
+        "end_time": 21
+      }
+    ]
+  },
+  {
+    "name": "horse mackerel",
+    "type": "fish",
+    "url": "/wiki/Horse_mackerel",
+    "price": "150",
+    "location": "Sea",
+    "shadow_size": "2",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "barred knifejaw",
+    "type": "fish",
+    "url": "/wiki/Barred_knifejaw",
+    "price": "5000",
+    "location": "Sea",
+    "shadow_size": "3",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "sea bass",
+    "type": "fish",
+    "url": "/wiki/Sea_bass",
+    "price": "400",
+    "location": "Sea",
+    "shadow_size": "5",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "red snapper",
+    "type": "fish",
+    "url": "/wiki/Red_snapper",
+    "price": "3000",
+    "location": "Sea",
+    "shadow_size": "4",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "dab",
+    "type": "fish",
+    "url": "/wiki/Dab",
+    "price": "300",
+    "location": "Sea",
+    "shadow_size": "3",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "olive flounder",
+    "type": "fish",
+    "url": "/wiki/Olive_flounder",
+    "price": "800",
+    "location": "Sea",
+    "shadow_size": "5",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "squid",
+    "type": "fish",
+    "url": "/wiki/Squid",
+    "price": "500",
+    "location": "Sea",
+    "shadow_size": "3",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "moray eel",
+    "type": "fish",
+    "url": "/wiki/Moray_eel",
+    "price": "2000",
+    "location": "Sea",
+    "shadow_size": "Narrow",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": false,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "ribbon eel",
+    "type": "fish",
+    "url": "/wiki/Ribbon_eel",
+    "price": "600",
+    "location": "Sea",
+    "shadow_size": "Narrow",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "tuna",
+    "type": "fish",
+    "url": "/wiki/Tuna",
+    "price": "7000",
+    "location": "Pier",
+    "shadow_size": "6",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "blue marlin",
+    "type": "fish",
+    "url": "/wiki/Blue_marlin",
+    "price": "10000",
+    "location": "Pier",
+    "shadow_size": "6",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "giant trevally",
+    "type": "fish",
+    "url": "/wiki/Giant_trevally",
+    "price": "4500",
+    "location": "Pier",
+    "shadow_size": "5",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "mahi-mahi",
+    "type": "fish",
+    "url": "/wiki/Mahi-mahi",
+    "price": "6000",
+    "location": "Pier",
+    "shadow_size": "5",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "ocean sunfish",
+    "type": "fish",
+    "url": "/wiki/Ocean_sunfish",
+    "price": "4000",
+    "location": "Sea",
+    "shadow_size": "6 (Fin)",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 AM - 9 PM",
+        "start_time": "4",
+        "end_time": 21
+      }
+    ]
+  },
+  {
+    "name": "ray",
+    "type": "fish",
+    "url": "/wiki/Ray",
+    "price": "3000",
+    "location": "Sea",
+    "shadow_size": "5",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      },
+      "south": {
+        "january": false,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 AM - 9 PM",
+        "start_time": "4",
+        "end_time": 21
+      }
+    ]
+  },
+  {
+    "name": "saw shark",
+    "type": "fish",
+    "url": "/wiki/Saw_shark",
+    "price": "12000",
+    "location": "Sea",
+    "shadow_size": "6 (Fin)",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 PM - 9 AM",
+        "start_time": 16,
+        "end_time": "9"
+      }
+    ]
+  },
+  {
+    "name": "hammerhead shark",
+    "type": "fish",
+    "url": "/wiki/Hammerhead_shark",
+    "price": "8000",
+    "location": "Sea",
+    "shadow_size": "6 (Fin)",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 PM - 9 AM",
+        "start_time": 16,
+        "end_time": "9"
+      }
+    ]
+  },
+  {
+    "name": "great white shark",
+    "type": "fish",
+    "url": "/wiki/Great_white_shark",
+    "price": "15000",
+    "location": "Sea",
+    "shadow_size": "6 (Fin)",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 PM - 9 AM",
+        "start_time": 16,
+        "end_time": "9"
+      }
+    ]
+  },
+  {
+    "name": "whale shark",
+    "type": "fish",
+    "url": "/wiki/Whale_shark",
+    "price": "13000",
+    "location": "Sea",
+    "shadow_size": "6 (Fin)",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "suckerfish",
+    "type": "fish",
+    "url": "/wiki/Suckerfish",
+    "price": "1500",
+    "location": "Sea",
+    "shadow_size": "4 (Fin)",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "football fish",
+    "type": "fish",
+    "url": "/wiki/Football_fish",
+    "price": "2500",
+    "location": "Sea",
+    "shadow_size": "4",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 PM - 9 AM",
+        "start_time": 16,
+        "end_time": "9"
+      }
+    ]
+  },
+  {
+    "name": "oarfish",
+    "type": "fish",
+    "url": "/wiki/Oarfish",
+    "price": "9000",
+    "location": "Sea",
+    "shadow_size": "6",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "barreleye",
+    "type": "fish",
+    "url": "/wiki/Barreleye",
+    "price": "15000",
+    "location": "Sea",
+    "shadow_size": "2",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "9 PM - 4 AM",
+        "start_time": 21,
+        "end_time": "4"
+      }
+    ]
+  },
+  {
+    "name": "coelacanth",
+    "type": "fish",
+    "url": "/wiki/Coelacanth",
+    "price": "15000",
+    "location": "Sea (while raining)",
+    "shadow_size": "6",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "common butterfly",
+    "type": "bug",
+    "url": "/wiki/Common_butterfly",
+    "price": "160",
+    "location": "Flying",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 AM - 7 PM",
+        "start_time": "4",
+        "end_time": 19
+      }
+    ]
+  },
+  {
+    "name": "yellow butterfly",
+    "type": "bug",
+    "url": "/wiki/Yellow_butterfly",
+    "price": "160",
+    "location": "Flying",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 AM - 7 PM",
+        "start_time": "4",
+        "end_time": 19
+      }
+    ]
+  },
+  {
+    "name": "tiger butterfly",
+    "type": "bug",
+    "url": "/wiki/Tiger_butterfly",
+    "price": "240",
+    "location": "Flying",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 AM - 7 PM",
+        "start_time": "4",
+        "end_time": 19
+      }
+    ]
+  },
+  {
+    "name": "peacock butterfly",
+    "type": "bug",
+    "url": "/wiki/Peacock_butterfly",
+    "price": "2500",
+    "location": "Flying by Hybrid Flowers",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 AM - 7 PM",
+        "start_time": "4",
+        "end_time": 19
+      }
+    ]
+  },
+  {
+    "name": "common bluebottle",
+    "type": "bug",
+    "url": "/wiki/Common_bluebottle",
+    "price": "300",
+    "location": "Flying",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 AM - 7 PM",
+        "start_time": "4",
+        "end_time": 19
+      }
+    ]
+  },
+  {
+    "name": "paper kite butterfly",
+    "type": "bug",
+    "url": "/wiki/Paper_kite_butterfly",
+    "price": "1000",
+    "location": "Flying",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "8 AM - 7 PM",
+        "start_time": "8",
+        "end_time": 19
+      }
+    ]
+  },
+  {
+    "name": "great purple emperor",
+    "type": "bug",
+    "url": "/wiki/Great_purple_emperor",
+    "price": "3000",
+    "location": "Flying",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 AM - 7 PM",
+        "start_time": "4",
+        "end_time": 19
+      }
+    ]
+  },
+  {
+    "name": "monarch butterfly",
+    "type": "bug",
+    "url": "/wiki/Monarch_butterfly",
+    "price": "140",
+    "location": "Flying",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 AM - 5 PM",
+        "start_time": "4",
+        "end_time": 17
+      }
+    ]
+  },
+  {
+    "name": "emperor butterfly",
+    "type": "bug",
+    "url": "/wiki/Emperor_butterfly",
+    "price": "4000",
+    "location": "Flying",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "5 PM - 8 AM",
+        "start_time": 17,
+        "end_time": "8"
+      }
+    ]
+  },
+  {
+    "name": "agrias butterfly",
+    "type": "bug",
+    "url": "/wiki/Agrias_butterfly",
+    "price": "3000",
+    "location": "Flying",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "8 AM - 5 PM",
+        "start_time": "8",
+        "end_time": 17
+      }
+    ]
+  },
+  {
+    "name": "rajah brooke's birdwing",
+    "type": "bug",
+    "url": "/wiki/Rajah_Brooke%27s_birdwing",
+    "price": "2500",
+    "location": "Flying",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "8 AM - 5 PM",
+        "start_time": "8",
+        "end_time": 17
+      }
+    ]
+  },
+  {
+    "name": "queen alexandra's birdwing",
+    "type": "bug",
+    "url": "/wiki/Queen_Alexandra%27s_birdwing",
+    "price": "4000",
+    "location": "Flying",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "8 AM - 4 PM",
+        "start_time": "8",
+        "end_time": 16
+      }
+    ]
+  },
+  {
+    "name": "moth",
+    "type": "bug",
+    "url": "/wiki/Moth",
+    "price": "130",
+    "location": "Flying by Light",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "7 PM - 4 AM",
+        "start_time": 19,
+        "end_time": "4"
+      }
+    ]
+  },
+  {
+    "name": "atlas moth",
+    "type": "bug",
+    "url": "/wiki/Atlas_moth",
+    "price": "3000",
+    "location": "On Trees",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "7 PM - 4 AM",
+        "start_time": 19,
+        "end_time": "4"
+      }
+    ]
+  },
+  {
+    "name": "madagascan sunset moth",
+    "type": "bug",
+    "url": "/wiki/Madagascan_sunset_moth",
+    "price": "2500",
+    "location": "Flying",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "8 AM - 4 PM",
+        "start_time": "8",
+        "end_time": 16
+      }
+    ]
+  },
+  {
+    "name": "long locust",
+    "type": "bug",
+    "url": "/wiki/Long_locust",
+    "price": "200",
+    "location": "On the Ground",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "8 AM - 7 PM",
+        "start_time": "8",
+        "end_time": 19
+      }
+    ]
+  },
+  {
+    "name": "migratory locust",
+    "type": "bug",
+    "url": "/wiki/Migratory_locust",
+    "price": "600",
+    "location": "On the Ground",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      },
+      "south": {
+        "january": false,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "8 AM - 7 PM",
+        "start_time": "8",
+        "end_time": 19
+      }
+    ]
+  },
+  {
+    "name": "rice grasshopper",
+    "type": "bug",
+    "url": "/wiki/Rice_grasshopper",
+    "price": "160",
+    "location": "On the Ground",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      },
+      "south": {
+        "january": false,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "8 AM - 7 PM",
+        "start_time": "8",
+        "end_time": 19
+      }
+    ]
+  },
+  {
+    "name": "grasshopper",
+    "type": "bug",
+    "url": "/wiki/Grasshopper",
+    "price": "160",
+    "location": "On the Ground",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "8 AM - 5 PM",
+        "start_time": "8",
+        "end_time": 17
+      }
+    ]
+  },
+  {
+    "name": "cricket",
+    "type": "bug",
+    "url": "/wiki/Cricket",
+    "price": "130",
+    "location": "On the Ground",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "5 PM - 8 AM",
+        "start_time": 17,
+        "end_time": "8"
+      }
+    ]
+  },
+  {
+    "name": "bell cricket",
+    "type": "bug",
+    "url": "/wiki/Bell_cricket",
+    "price": "430",
+    "location": "On the Ground",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "5 PM - 8 AM",
+        "start_time": 17,
+        "end_time": "8"
+      }
+    ]
+  },
+  {
+    "name": "mantis",
+    "type": "bug",
+    "url": "/wiki/Mantis",
+    "price": "430",
+    "location": "On Flowers",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "8 AM - 5 PM",
+        "start_time": "8",
+        "end_time": 17
+      }
+    ]
+  },
+  {
+    "name": "orchid mantis",
+    "type": "bug",
+    "url": "/wiki/Orchid_mantis",
+    "price": "2400",
+    "location": "On Flowers (White)",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "8 AM - 5 PM",
+        "start_time": "8",
+        "end_time": 17
+      }
+    ]
+  },
+  {
+    "name": "honeybee",
+    "type": "bug",
+    "url": "/wiki/Honeybee",
+    "price": "200",
+    "location": "Flying",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "8 AM - 5 PM",
+        "start_time": "8",
+        "end_time": 17
+      }
+    ]
+  },
+  {
+    "name": "wasp",
+    "type": "bug",
+    "url": "/wiki/Wasp",
+    "price": "2500",
+    "location": "Shaking Trees",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "brown cicada",
+    "type": "bug",
+    "url": "/wiki/Brown_cicada",
+    "price": "250",
+    "location": "On Trees",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "8 AM - 5 PM",
+        "start_time": "8",
+        "end_time": 17
+      }
+    ]
+  },
+  {
+    "name": "robust cicada",
+    "type": "bug",
+    "url": "/wiki/Robust_cicada",
+    "price": "300",
+    "location": "On Trees",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "8 AM - 5 PM",
+        "start_time": "8",
+        "end_time": 17
+      }
+    ]
+  },
+  {
+    "name": "giant cicada",
+    "type": "bug",
+    "url": "/wiki/Giant_cicada",
+    "price": "500",
+    "location": "On Trees",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "8 AM - 5 PM",
+        "start_time": "8",
+        "end_time": 17
+      }
+    ]
+  },
+  {
+    "name": "walker cicada",
+    "type": "bug",
+    "url": "/wiki/Walker_cicada",
+    "price": "400",
+    "location": "On Trees",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": false,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "8 AM - 5 PM",
+        "start_time": "8",
+        "end_time": 17
+      }
+    ]
+  },
+  {
+    "name": "evening cicada",
+    "type": "bug",
+    "url": "/wiki/Evening_cicada",
+    "price": "550",
+    "location": "On Trees",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 AM - 8 AM",
+        "start_time": "4",
+        "end_time": "8"
+      },
+      {
+        "time": "4 PM - 7 PM",
+        "start_time": 16,
+        "end_time": 19
+      }
+    ]
+  },
+  {
+    "name": "cicada shell",
+    "type": "bug",
+    "url": "/wiki/Cicada_shell",
+    "price": "10",
+    "location": "On Trees",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "red dragonfly",
+    "type": "bug",
+    "url": "/wiki/Red_dragonfly",
+    "price": "180",
+    "location": "Flying",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "8 AM - 7 PM",
+        "start_time": "8",
+        "end_time": 19
+      }
+    ]
+  },
+  {
+    "name": "darner dragonfly",
+    "type": "bug",
+    "url": "/wiki/Darner_dragonfly",
+    "price": "230",
+    "location": "Flying",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "8 AM - 5 PM",
+        "start_time": "8",
+        "end_time": 17
+      }
+    ]
+  },
+  {
+    "name": "banded dragonfly",
+    "type": "bug",
+    "url": "/wiki/Banded_dragonfly",
+    "price": "4500",
+    "location": "Flying",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "8 AM - 5 PM",
+        "start_time": "8",
+        "end_time": 17
+      }
+    ]
+  },
+  {
+    "name": "damselfly",
+    "type": "bug",
+    "url": "/wiki/Damselfly",
+    "price": "500",
+    "location": "Flying",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "firefly",
+    "type": "bug",
+    "url": "/wiki/Firefly",
+    "price": "300",
+    "location": "Flying",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "7 PM - 4 AM",
+        "start_time": 19,
+        "end_time": "4"
+      }
+    ]
+  },
+  {
+    "name": "mole cricket",
+    "type": "bug",
+    "url": "/wiki/Mole_cricket",
+    "price": "500",
+    "location": "Underground",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "pondskater",
+    "type": "bug",
+    "url": "/wiki/Pondskater",
+    "price": "130",
+    "location": "On Ponds and Rivers",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "8 AM - 7 PM",
+        "start_time": "8",
+        "end_time": 19
+      }
+    ]
+  },
+  {
+    "name": "diving beetle",
+    "type": "bug",
+    "url": "/wiki/Diving_beetle",
+    "price": "800",
+    "location": "On Ponds and Rivers",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "8 AM - 7 PM",
+        "start_time": "8",
+        "end_time": 19
+      }
+    ]
+  },
+  {
+    "name": "giant water bug",
+    "type": "bug",
+    "url": "/wiki/Giant_water_bug",
+    "price": "2000",
+    "location": "On Ponds and Rivers",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "7 PM - 8 AM",
+        "start_time": 19,
+        "end_time": "8"
+      }
+    ]
+  },
+  {
+    "name": "stinkbug",
+    "type": "bug",
+    "url": "/wiki/Stinkbug",
+    "price": "120",
+    "location": "On Flowers",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "man-faced stink bug",
+    "type": "bug",
+    "url": "/wiki/Man-faced_stink_bug",
+    "price": "1000",
+    "location": "On Flowers",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "7 PM - 8 AM",
+        "start_time": 19,
+        "end_time": "8"
+      }
+    ]
+  },
+  {
+    "name": "ladybug",
+    "type": "bug",
+    "url": "/wiki/Ladybug",
+    "price": "200",
+    "location": "On Flowers",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": true,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "8 AM - 5 PM",
+        "start_time": "8",
+        "end_time": 17
+      }
+    ]
+  },
+  {
+    "name": "tiger beetle",
+    "type": "bug",
+    "url": "/wiki/Tiger_beetle",
+    "price": "1500",
+    "location": "On the Ground",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "jewel beetle",
+    "type": "bug",
+    "url": "/wiki/Jewel_beetle",
+    "price": "2400",
+    "location": "On Tree Stumps",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "violin beetle",
+    "type": "bug",
+    "url": "/wiki/Violin_beetle",
+    "price": "450",
+    "location": "On Tree Stumps",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "citrus long-horned beetle",
+    "type": "bug",
+    "url": "/wiki/Citrus_long-horned_beetle",
+    "price": "350",
+    "location": "On Tree Stumps",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "rosalia batesi beetle",
+    "type": "bug",
+    "url": "/wiki/Rosalia_batesi_beetle",
+    "price": "3000",
+    "location": "On Tree Stumps",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "blue weevil beetle",
+    "type": "bug",
+    "url": "/wiki/Blue_weevil_beetle",
+    "price": "800",
+    "location": "On Trees (Coconut?)",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "dung beetle",
+    "type": "bug",
+    "url": "/wiki/Dung_beetle",
+    "price": "3000",
+    "location": "On the Ground (rolling snowballs)",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "earth-boring dung beetle",
+    "type": "bug",
+    "url": "/wiki/Earth-boring_dung_beetle",
+    "price": "300",
+    "location": "On the Ground",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "scarab beetle",
+    "type": "bug",
+    "url": "/wiki/Scarab_beetle",
+    "price": "10000",
+    "location": "On Trees",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "11 PM - 8 AM",
+        "start_time": 23,
+        "end_time": "8"
+      }
+    ]
+  },
+  {
+    "name": "drone beetle",
+    "type": "bug",
+    "url": "/wiki/Drone_beetle",
+    "price": "200",
+    "location": "On Trees",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "goliath beetle",
+    "type": "bug",
+    "url": "/wiki/Goliath_beetle",
+    "price": "8000",
+    "location": "On Trees (Coconut)",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "5 PM - 8 AM",
+        "start_time": 17,
+        "end_time": "8"
+      }
+    ]
+  },
+  {
+    "name": "saw stag",
+    "type": "bug",
+    "url": "/wiki/Saw_stag",
+    "price": "2000",
+    "location": "On Trees",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "miyama stag",
+    "type": "bug",
+    "url": "/wiki/Miyama_stag",
+    "price": "1000",
+    "location": "On Trees",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "giant stag",
+    "type": "bug",
+    "url": "/wiki/Giant_stag",
+    "price": "10000",
+    "location": "On Trees",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "11 PM - 8 AM",
+        "start_time": 23,
+        "end_time": "8"
+      }
+    ]
+  },
+  {
+    "name": "rainbow stag",
+    "type": "bug",
+    "url": "/wiki/Rainbow_stag",
+    "price": "6000",
+    "location": "On Trees",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "7 PM - 8 AM",
+        "start_time": 19,
+        "end_time": "8"
+      }
+    ]
+  },
+  {
+    "name": "cyclommatus stag",
+    "type": "bug",
+    "url": "/wiki/Cyclommatus_stag",
+    "price": "8000",
+    "location": "On Trees (Coconut)",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "5 PM - 8 AM",
+        "start_time": 17,
+        "end_time": "8"
+      }
+    ]
+  },
+  {
+    "name": "golden stag",
+    "type": "bug",
+    "url": "/wiki/Golden_stag",
+    "price": "12000",
+    "location": "On Trees (Coconut)",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "5 PM - 8 AM",
+        "start_time": 17,
+        "end_time": "8"
+      }
+    ]
+  },
+  {
+    "name": "giraffe stag",
+    "type": "bug",
+    "url": "/wiki/Giraffe_stag",
+    "price": "12000",
+    "location": "On Trees (Coconut?)",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "5 PM - 8 AM",
+        "start_time": 17,
+        "end_time": "8"
+      }
+    ]
+  },
+  {
+    "name": "horned dynastid",
+    "type": "bug",
+    "url": "/wiki/Horned_dynastid",
+    "price": "1350",
+    "location": "On Trees",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "5 PM - 8 AM",
+        "start_time": 17,
+        "end_time": "8"
+      }
+    ]
+  },
+  {
+    "name": "horned atlas",
+    "type": "bug",
+    "url": "/wiki/Horned_atlas",
+    "price": "8000",
+    "location": "On Trees (Coconut)",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "5 PM - 8 AM",
+        "start_time": 17,
+        "end_time": "8"
+      }
+    ]
+  },
+  {
+    "name": "horned elephant",
+    "type": "bug",
+    "url": "/wiki/Horned_elephant",
+    "price": "8000",
+    "location": "On Trees (Coconut)",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "5 PM - 8 AM",
+        "start_time": 17,
+        "end_time": "8"
+      }
+    ]
+  },
+  {
+    "name": "horned hercules",
+    "type": "bug",
+    "url": "/wiki/Horned_hercules",
+    "price": "12000",
+    "location": "On Trees (Coconut)",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "5 PM - 8 AM",
+        "start_time": 17,
+        "end_time": "8"
+      }
+    ]
+  },
+  {
+    "name": "walking stick",
+    "type": "bug",
+    "url": "/wiki/Walking_stick",
+    "price": "600",
+    "location": "On Trees",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 AM - 8 AM",
+        "start_time": "4",
+        "end_time": "8"
+      },
+      {
+        "time": "5 PM - 7 PM",
+        "start_time": 17,
+        "end_time": 19
+      }
+    ]
+  },
+  {
+    "name": "walking leaf",
+    "type": "bug",
+    "url": "/wiki/Walking_leaf",
+    "price": "600",
+    "location": "Under Trees Disguised as Leafs",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "bagworm",
+    "type": "bug",
+    "url": "/wiki/Bagworm",
+    "price": "600",
+    "location": "Shaking Trees",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "ant",
+    "type": "bug",
+    "url": "/wiki/Ant",
+    "price": "80",
+    "location": "On rotten food",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "hermit crab",
+    "type": "bug",
+    "url": "/wiki/Hermit_crab",
+    "price": "1000",
+    "location": "Beach disguised as Shells",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "7 PM - 8 AM",
+        "start_time": 19,
+        "end_time": "8"
+      }
+    ]
+  },
+  {
+    "name": "wharf roach",
+    "type": "bug",
+    "url": "/wiki/Wharf_roach",
+    "price": "200",
+    "location": "On Beach Rocks",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "fly",
+    "type": "bug",
+    "url": "/wiki/Fly",
+    "price": "60",
+    "location": "On Trash Items",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "mosquito",
+    "type": "bug",
+    "url": "/wiki/Mosquito",
+    "price": "130",
+    "location": "Flying",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": false,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": false,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": false,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": false,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "5 PM - 4 AM",
+        "start_time": 17,
+        "end_time": "4"
+      }
+    ]
+  },
+  {
+    "name": "flea",
+    "type": "bug",
+    "url": "/wiki/Flea",
+    "price": "70",
+    "location": "Villager's Heads",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "snail",
+    "type": "bug",
+    "url": "/wiki/Snail",
+    "price": "250",
+    "location": "On Rocks (Rain)",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "All day",
+        "start_time": 0,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "pill bug",
+    "type": "bug",
+    "url": "/wiki/Pill_bug",
+    "price": "250",
+    "location": "Hitting Rocks",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "11 PM - 4 PM",
+        "start_time": 23,
+        "end_time": 16
+      }
+    ]
+  },
+  {
+    "name": "centipede",
+    "type": "bug",
+    "url": "/wiki/Centipede",
+    "price": "300",
+    "location": "Hitting Rocks",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": false,
+        "august": false,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "4 PM - 11 PM",
+        "start_time": 16,
+        "end_time": 23
+      }
+    ]
+  },
+  {
+    "name": "spider",
+    "type": "bug",
+    "url": "/wiki/Spider",
+    "price": "600",
+    "location": "Shaking Trees",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "7 PM - 8 AM",
+        "start_time": 19,
+        "end_time": "8"
+      }
+    ]
+  },
+  {
+    "name": "tarantula",
+    "type": "bug",
+    "url": "/wiki/Tarantula",
+    "price": "8000",
+    "location": "On the Ground",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": true,
+        "december": true
+      },
+      "south": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": false,
+        "december": false
+      }
+    },
+    "available_times": [
+      {
+        "time": "7 PM - 4 AM",
+        "start_time": 19,
+        "end_time": "4"
+      }
+    ]
+  },
+  {
+    "name": "scorpion",
+    "type": "bug",
+    "url": "/wiki/Scorpion",
+    "price": "8000",
+    "location": "On the Ground",
+    "shadow_size": "NA",
+    "hemispheres": {
+      "north": {
+        "january": false,
+        "february": false,
+        "march": false,
+        "april": false,
+        "may": true,
+        "june": true,
+        "july": true,
+        "august": true,
+        "september": true,
+        "october": true,
+        "november": false,
+        "december": false
+      },
+      "south": {
+        "january": true,
+        "february": true,
+        "march": true,
+        "april": true,
+        "may": false,
+        "june": false,
+        "july": false,
+        "august": false,
+        "september": false,
+        "october": false,
+        "november": true,
+        "december": true
+      }
+    },
+    "available_times": [
+      {
+        "time": "7 PM - 4 AM",
+        "start_time": 19,
+        "end_time": "4"
+      }
+    ]
+  }
+]
