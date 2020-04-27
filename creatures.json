@@ -84,7 +84,7 @@
     "available_times": [
       {
         "time": "9 AM - 4 PM",
-        "start_time": "9",
+        "start_time": 9,
         "end_time": 16
       }
     ]
@@ -175,7 +175,7 @@
       {
         "time": "4 PM - 9 AM",
         "start_time": 16,
-        "end_time": "9"
+        "end_time": 9
       }
     ]
   },
@@ -265,7 +265,7 @@
       {
         "time": "4 PM - 9 AM",
         "start_time": 16,
-        "end_time": "9"
+        "end_time": 9
       }
     ]
   },
@@ -354,7 +354,7 @@
     "available_times": [
       {
         "time": "9 AM - 4 PM",
-        "start_time": "9",
+        "start_time": 9,
         "end_time": 16
       }
     ]
@@ -399,7 +399,7 @@
     "available_times": [
       {
         "time": "9 AM - 4 PM",
-        "start_time": "9",
+        "start_time": 9,
         "end_time": 16
       }
     ]
@@ -535,7 +535,7 @@
       {
         "time": "4 PM - 9 AM",
         "start_time": 16,
-        "end_time": "9"
+        "end_time": 9
       }
     ]
   },
@@ -545,7 +545,7 @@
     "url": "/wiki/Snapping_Turtle",
     "price": "5000",
     "location": "River",
-    "shadow_size": "4",
+    "shadow_size": "5",
     "hemispheres": {
       "north": {
         "january": false,
@@ -580,7 +580,7 @@
       {
         "time": "9 PM - 4 AM",
         "start_time": 21,
-        "end_time": "4"
+        "end_time": 4
       }
     ]
   },
@@ -715,7 +715,7 @@
       {
         "time": "4 PM - 9 AM",
         "start_time": 16,
-        "end_time": "9"
+        "end_time": 9
       }
     ]
   },
@@ -805,7 +805,7 @@
       {
         "time": "4 PM - 9 AM",
         "start_time": 16,
-        "end_time": "9"
+        "end_time": 9
       }
     ]
   },
@@ -815,7 +815,7 @@
     "url": "/wiki/Giant_snakehead",
     "price": "5500",
     "location": "Pond",
-    "shadow_size": "4",
+    "shadow_size": "5",
     "hemispheres": {
       "north": {
         "january": false,
@@ -849,7 +849,7 @@
     "available_times": [
       {
         "time": "9 AM - 4 PM",
-        "start_time": "9",
+        "start_time": 9,
         "end_time": 16
       }
     ]
@@ -894,7 +894,7 @@
     "available_times": [
       {
         "time": "9 AM - 4 PM",
-        "start_time": "9",
+        "start_time": 9,
         "end_time": 16
       }
     ]
@@ -1173,7 +1173,7 @@
     "name": "cherry salmon",
     "type": "fish",
     "url": "/wiki/Cherry_salmon",
-    "price": "1000",
+    "price": "800",
     "location": "River (Clifftop)",
     "shadow_size": "3",
     "hemispheres": {
@@ -1210,7 +1210,7 @@
       {
         "time": "4 PM - 9 AM",
         "start_time": 16,
-        "end_time": "9"
+        "end_time": 9
       }
     ]
   },
@@ -1255,7 +1255,7 @@
       {
         "time": "4 PM - 9 AM",
         "start_time": 16,
-        "end_time": "9"
+        "end_time": 9
       }
     ]
   },
@@ -1300,7 +1300,7 @@
       {
         "time": "4 PM - 9 AM",
         "start_time": 16,
-        "end_time": "9"
+        "end_time": 9
       }
     ]
   },
@@ -1345,7 +1345,7 @@
       {
         "time": "4 PM - 9 AM",
         "start_time": 16,
-        "end_time": "9"
+        "end_time": 9
       }
     ]
   },
@@ -1480,7 +1480,7 @@
       {
         "time": "4 PM - 9 AM",
         "start_time": 16,
-        "end_time": "9"
+        "end_time": 9
       }
     ]
   },
@@ -1524,7 +1524,7 @@
     "available_times": [
       {
         "time": "9 AM - 4 PM",
-        "start_time": "9",
+        "start_time": 9,
         "end_time": 16
       }
     ]
@@ -1569,7 +1569,7 @@
     "available_times": [
       {
         "time": "9 AM - 4 PM",
-        "start_time": "9",
+        "start_time": 9,
         "end_time": 16
       }
     ]
@@ -1615,7 +1615,7 @@
       {
         "time": "4 PM - 9 AM",
         "start_time": 16,
-        "end_time": "9"
+        "end_time": 9
       }
     ]
   },
@@ -1659,7 +1659,7 @@
     "available_times": [
       {
         "time": "9 AM - 4 PM",
-        "start_time": "9",
+        "start_time": 9,
         "end_time": 16
       }
     ]
@@ -1704,7 +1704,7 @@
     "available_times": [
       {
         "time": "9 AM - 4 PM",
-        "start_time": "9",
+        "start_time": 9,
         "end_time": 16
       }
     ]
@@ -1749,7 +1749,7 @@
     "available_times": [
       {
         "time": "9 AM - 4 PM",
-        "start_time": "9",
+        "start_time": 9,
         "end_time": 16
       }
     ]
@@ -1794,13 +1794,13 @@
     "available_times": [
       {
         "time": "9 AM - 4 PM",
-        "start_time": "9",
+        "start_time": 9,
         "end_time": 16
       },
       {
         "time": "9 PM - 4 AM",
         "start_time": 21,
-        "end_time": "4"
+        "end_time": 4
       }
     ]
   },
@@ -1845,7 +1845,7 @@
       {
         "time": "4 PM - 9 AM",
         "start_time": 16,
-        "end_time": "9"
+        "end_time": 9
       }
     ]
   },
@@ -1889,7 +1889,7 @@
     "available_times": [
       {
         "time": "4 AM - 9 PM",
-        "start_time": "4",
+        "start_time": 4,
         "end_time": 21
       }
     ]
@@ -1900,7 +1900,7 @@
     "url": "/wiki/Gar",
     "price": "6000",
     "location": "Pond",
-    "shadow_size": "5",
+    "shadow_size": "6",
     "hemispheres": {
       "north": {
         "january": false,
@@ -1935,7 +1935,7 @@
       {
         "time": "4 PM - 9 AM",
         "start_time": 16,
-        "end_time": "9"
+        "end_time": 9
       }
     ]
   },
@@ -1980,7 +1980,7 @@
       {
         "time": "4 PM - 9 AM",
         "start_time": 16,
-        "end_time": "9"
+        "end_time": 9
       }
     ]
   },
@@ -2025,7 +2025,7 @@
       {
         "time": "9 PM - 4 AM",
         "start_time": 21,
-        "end_time": "4"
+        "end_time": 4
       }
     ]
   },
@@ -2339,7 +2339,7 @@
     "available_times": [
       {
         "time": "4 AM - 9 PM",
-        "start_time": "4",
+        "start_time": 4,
         "end_time": 21
       }
     ]
@@ -2430,7 +2430,7 @@
       {
         "time": "9 PM - 4 AM",
         "start_time": 21,
-        "end_time": "4"
+        "end_time": 4
       }
     ]
   },
@@ -2519,7 +2519,7 @@
     "available_times": [
       {
         "time": "4 AM - 9 PM",
-        "start_time": "4",
+        "start_time": 4,
         "end_time": 21
       }
     ]
@@ -3149,7 +3149,7 @@
     "available_times": [
       {
         "time": "4 AM - 9 PM",
-        "start_time": "4",
+        "start_time": 4,
         "end_time": 21
       }
     ]
@@ -3194,7 +3194,7 @@
     "available_times": [
       {
         "time": "4 AM - 9 PM",
-        "start_time": "4",
+        "start_time": 4,
         "end_time": 21
       }
     ]
@@ -3240,7 +3240,7 @@
       {
         "time": "4 PM - 9 AM",
         "start_time": 16,
-        "end_time": "9"
+        "end_time": 9
       }
     ]
   },
@@ -3285,7 +3285,7 @@
       {
         "time": "4 PM - 9 AM",
         "start_time": 16,
-        "end_time": "9"
+        "end_time": 9
       }
     ]
   },
@@ -3330,7 +3330,7 @@
       {
         "time": "4 PM - 9 AM",
         "start_time": 16,
-        "end_time": "9"
+        "end_time": 9
       }
     ]
   },
@@ -3465,7 +3465,7 @@
       {
         "time": "4 PM - 9 AM",
         "start_time": 16,
-        "end_time": "9"
+        "end_time": 9
       }
     ]
   },
@@ -3555,7 +3555,7 @@
       {
         "time": "9 PM - 4 AM",
         "start_time": 21,
-        "end_time": "4"
+        "end_time": 4
       }
     ]
   },
@@ -3564,7 +3564,7 @@
     "type": "fish",
     "url": "/wiki/Coelacanth",
     "price": "15000",
-    "location": "Sea (while raining)",
+    "location": "Sea",
     "shadow_size": "6",
     "hemispheres": {
       "north": {
@@ -3644,7 +3644,7 @@
     "available_times": [
       {
         "time": "4 AM - 7 PM",
-        "start_time": "4",
+        "start_time": 4,
         "end_time": 19
       }
     ]
@@ -3689,7 +3689,7 @@
     "available_times": [
       {
         "time": "4 AM - 7 PM",
-        "start_time": "4",
+        "start_time": 4,
         "end_time": 19
       }
     ]
@@ -3734,7 +3734,7 @@
     "available_times": [
       {
         "time": "4 AM - 7 PM",
-        "start_time": "4",
+        "start_time": 4,
         "end_time": 19
       }
     ]
@@ -3779,7 +3779,7 @@
     "available_times": [
       {
         "time": "4 AM - 7 PM",
-        "start_time": "4",
+        "start_time": 4,
         "end_time": 19
       }
     ]
@@ -3824,7 +3824,7 @@
     "available_times": [
       {
         "time": "4 AM - 7 PM",
-        "start_time": "4",
+        "start_time": 4,
         "end_time": 19
       }
     ]
@@ -3869,7 +3869,7 @@
     "available_times": [
       {
         "time": "8 AM - 7 PM",
-        "start_time": "8",
+        "start_time": 8,
         "end_time": 19
       }
     ]
@@ -3914,7 +3914,7 @@
     "available_times": [
       {
         "time": "4 AM - 7 PM",
-        "start_time": "4",
+        "start_time": 4,
         "end_time": 19
       }
     ]
@@ -3959,7 +3959,7 @@
     "available_times": [
       {
         "time": "4 AM - 5 PM",
-        "start_time": "4",
+        "start_time": 4,
         "end_time": 17
       }
     ]
@@ -4005,7 +4005,7 @@
       {
         "time": "5 PM - 8 AM",
         "start_time": 17,
-        "end_time": "8"
+        "end_time": 8
       }
     ]
   },
@@ -4049,7 +4049,7 @@
     "available_times": [
       {
         "time": "8 AM - 5 PM",
-        "start_time": "8",
+        "start_time": 8,
         "end_time": 17
       }
     ]
@@ -4094,7 +4094,7 @@
     "available_times": [
       {
         "time": "8 AM - 5 PM",
-        "start_time": "8",
+        "start_time": 8,
         "end_time": 17
       }
     ]
@@ -4139,7 +4139,7 @@
     "available_times": [
       {
         "time": "8 AM - 4 PM",
-        "start_time": "8",
+        "start_time": 8,
         "end_time": 16
       }
     ]
@@ -4185,7 +4185,7 @@
       {
         "time": "7 PM - 4 AM",
         "start_time": 19,
-        "end_time": "4"
+        "end_time": 4
       }
     ]
   },
@@ -4230,7 +4230,7 @@
       {
         "time": "7 PM - 4 AM",
         "start_time": 19,
-        "end_time": "4"
+        "end_time": 4
       }
     ]
   },
@@ -4274,7 +4274,7 @@
     "available_times": [
       {
         "time": "8 AM - 4 PM",
-        "start_time": "8",
+        "start_time": 8,
         "end_time": 16
       }
     ]
@@ -4319,7 +4319,7 @@
     "available_times": [
       {
         "time": "8 AM - 7 PM",
-        "start_time": "8",
+        "start_time": 8,
         "end_time": 19
       }
     ]
@@ -4364,7 +4364,7 @@
     "available_times": [
       {
         "time": "8 AM - 7 PM",
-        "start_time": "8",
+        "start_time": 8,
         "end_time": 19
       }
     ]
@@ -4409,7 +4409,7 @@
     "available_times": [
       {
         "time": "8 AM - 7 PM",
-        "start_time": "8",
+        "start_time": 8,
         "end_time": 19
       }
     ]
@@ -4454,7 +4454,7 @@
     "available_times": [
       {
         "time": "8 AM - 5 PM",
-        "start_time": "8",
+        "start_time": 8,
         "end_time": 17
       }
     ]
@@ -4500,7 +4500,7 @@
       {
         "time": "5 PM - 8 AM",
         "start_time": 17,
-        "end_time": "8"
+        "end_time": 8
       }
     ]
   },
@@ -4545,7 +4545,7 @@
       {
         "time": "5 PM - 8 AM",
         "start_time": 17,
-        "end_time": "8"
+        "end_time": 8
       }
     ]
   },
@@ -4589,7 +4589,7 @@
     "available_times": [
       {
         "time": "8 AM - 5 PM",
-        "start_time": "8",
+        "start_time": 8,
         "end_time": 17
       }
     ]
@@ -4634,7 +4634,7 @@
     "available_times": [
       {
         "time": "8 AM - 5 PM",
-        "start_time": "8",
+        "start_time": 8,
         "end_time": 17
       }
     ]
@@ -4679,7 +4679,7 @@
     "available_times": [
       {
         "time": "8 AM - 5 PM",
-        "start_time": "8",
+        "start_time": 8,
         "end_time": 17
       }
     ]
@@ -4769,7 +4769,7 @@
     "available_times": [
       {
         "time": "8 AM - 5 PM",
-        "start_time": "8",
+        "start_time": 8,
         "end_time": 17
       }
     ]
@@ -4814,7 +4814,7 @@
     "available_times": [
       {
         "time": "8 AM - 5 PM",
-        "start_time": "8",
+        "start_time": 8,
         "end_time": 17
       }
     ]
@@ -4859,7 +4859,7 @@
     "available_times": [
       {
         "time": "8 AM - 5 PM",
-        "start_time": "8",
+        "start_time": 8,
         "end_time": 17
       }
     ]
@@ -4904,7 +4904,7 @@
     "available_times": [
       {
         "time": "8 AM - 5 PM",
-        "start_time": "8",
+        "start_time": 8,
         "end_time": 17
       }
     ]
@@ -4949,8 +4949,8 @@
     "available_times": [
       {
         "time": "4 AM - 8 AM",
-        "start_time": "4",
-        "end_time": "8"
+        "start_time": 4,
+        "end_time": 8
       },
       {
         "time": "4 PM - 7 PM",
@@ -5044,7 +5044,7 @@
     "available_times": [
       {
         "time": "8 AM - 7 PM",
-        "start_time": "8",
+        "start_time": 8,
         "end_time": 19
       }
     ]
@@ -5089,7 +5089,7 @@
     "available_times": [
       {
         "time": "8 AM - 5 PM",
-        "start_time": "8",
+        "start_time": 8,
         "end_time": 17
       }
     ]
@@ -5134,7 +5134,7 @@
     "available_times": [
       {
         "time": "8 AM - 5 PM",
-        "start_time": "8",
+        "start_time": 8,
         "end_time": 17
       }
     ]
@@ -5225,7 +5225,7 @@
       {
         "time": "7 PM - 4 AM",
         "start_time": 19,
-        "end_time": "4"
+        "end_time": 4
       }
     ]
   },
@@ -5314,7 +5314,7 @@
     "available_times": [
       {
         "time": "8 AM - 7 PM",
-        "start_time": "8",
+        "start_time": 8,
         "end_time": 19
       }
     ]
@@ -5359,7 +5359,7 @@
     "available_times": [
       {
         "time": "8 AM - 7 PM",
-        "start_time": "8",
+        "start_time": 8,
         "end_time": 19
       }
     ]
@@ -5405,7 +5405,7 @@
       {
         "time": "7 PM - 8 AM",
         "start_time": 19,
-        "end_time": "8"
+        "end_time": 8
       }
     ]
   },
@@ -5495,7 +5495,7 @@
       {
         "time": "7 PM - 8 AM",
         "start_time": 19,
-        "end_time": "8"
+        "end_time": 8
       }
     ]
   },
@@ -5539,7 +5539,7 @@
     "available_times": [
       {
         "time": "8 AM - 5 PM",
-        "start_time": "8",
+        "start_time": 8,
         "end_time": 17
       }
     ]
@@ -5945,7 +5945,7 @@
       {
         "time": "11 PM - 8 AM",
         "start_time": 23,
-        "end_time": "8"
+        "end_time": 8
       }
     ]
   },
@@ -6035,7 +6035,7 @@
       {
         "time": "5 PM - 8 AM",
         "start_time": 17,
-        "end_time": "8"
+        "end_time": 8
       }
     ]
   },
@@ -6170,7 +6170,7 @@
       {
         "time": "11 PM - 8 AM",
         "start_time": 23,
-        "end_time": "8"
+        "end_time": 8
       }
     ]
   },
@@ -6215,7 +6215,7 @@
       {
         "time": "7 PM - 8 AM",
         "start_time": 19,
-        "end_time": "8"
+        "end_time": 8
       }
     ]
   },
@@ -6260,7 +6260,7 @@
       {
         "time": "5 PM - 8 AM",
         "start_time": 17,
-        "end_time": "8"
+        "end_time": 8
       }
     ]
   },
@@ -6305,7 +6305,7 @@
       {
         "time": "5 PM - 8 AM",
         "start_time": 17,
-        "end_time": "8"
+        "end_time": 8
       }
     ]
   },
@@ -6350,7 +6350,7 @@
       {
         "time": "5 PM - 8 AM",
         "start_time": 17,
-        "end_time": "8"
+        "end_time": 8
       }
     ]
   },
@@ -6395,7 +6395,7 @@
       {
         "time": "5 PM - 8 AM",
         "start_time": 17,
-        "end_time": "8"
+        "end_time": 8
       }
     ]
   },
@@ -6440,7 +6440,7 @@
       {
         "time": "5 PM - 8 AM",
         "start_time": 17,
-        "end_time": "8"
+        "end_time": 8
       }
     ]
   },
@@ -6485,7 +6485,7 @@
       {
         "time": "5 PM - 8 AM",
         "start_time": 17,
-        "end_time": "8"
+        "end_time": 8
       }
     ]
   },
@@ -6530,7 +6530,7 @@
       {
         "time": "5 PM - 8 AM",
         "start_time": 17,
-        "end_time": "8"
+        "end_time": 8
       }
     ]
   },
@@ -6574,8 +6574,8 @@
     "available_times": [
       {
         "time": "4 AM - 8 AM",
-        "start_time": "4",
-        "end_time": "8"
+        "start_time": 4,
+        "end_time": 8
       },
       {
         "time": "5 PM - 7 PM",
@@ -6760,7 +6760,7 @@
       {
         "time": "7 PM - 8 AM",
         "start_time": 19,
-        "end_time": "8"
+        "end_time": 8
       }
     ]
   },
@@ -6895,7 +6895,7 @@
       {
         "time": "5 PM - 4 AM",
         "start_time": 17,
-        "end_time": "4"
+        "end_time": 4
       }
     ]
   },
@@ -6949,7 +6949,7 @@
     "type": "bug",
     "url": "/wiki/Snail",
     "price": "250",
-    "location": "On Rocks (Rain)",
+    "location": "On Rocks and bushes (Rain)",
     "shadow_size": "NA",
     "hemispheres": {
       "north": {
@@ -7120,7 +7120,7 @@
       {
         "time": "7 PM - 8 AM",
         "start_time": 19,
-        "end_time": "8"
+        "end_time": 8
       }
     ]
   },
@@ -7165,7 +7165,7 @@
       {
         "time": "7 PM - 4 AM",
         "start_time": 19,
-        "end_time": "4"
+        "end_time": 4
       }
     ]
   },
@@ -7210,7 +7210,7 @@
       {
         "time": "7 PM - 4 AM",
         "start_time": 19,
-        "end_time": "4"
+        "end_time": 4
       }
     ]
   }

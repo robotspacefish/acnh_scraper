@@ -30,7 +30,7 @@ class AvailableTime
           hour = hour.to_i + 12
         end
 
-        hour
+        hour.to_i
       end
     end
 
